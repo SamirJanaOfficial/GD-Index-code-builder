@@ -1,7 +1,8 @@
-Google Personal/Shared Drive Index
-Supports Both My and Team/Shared Drives.
-Upload Function.
-Search Function based on jQuery.
+# Google Personal/Shared Drive Index
+
+* Supports Both My and Team/Shared Drives.
+* Upload Function.
+* Search Function based on jQuery.
 Demo at https://googledri.ve.workers.dev
 Lite Demo at https://litedri.ve.workers.dev
 How to
