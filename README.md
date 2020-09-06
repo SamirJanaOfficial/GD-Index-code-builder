@@ -7,6 +7,7 @@
 
 ## How to
 * Open https://codedri.ve.workers.dev
+* OR [![Run on Repl.it](https://repl.it/badge/github/SamirJanaOfficial/GD-Index-code-builder)](https://repl.it/github/SamirJanaOfficial/GD-Index-code-builder)
 * Authenticate.
 * For Team Drive Add Folder ID instead of root.
 * Copy and Paste Code in Cloudflare Workers.
