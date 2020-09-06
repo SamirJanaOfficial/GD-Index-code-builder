@@ -6,7 +6,7 @@
 * Demo at https://td.shinobi.workers.dev/0:/
 
 ## How to
-* Open https://codedri.ve.workers.dev
+* Open https://kind-five-lime.glitch.me/
 * Authenticate.
 * For Team Drive Add Folder ID instead of root.
 * Copy and Paste Code in Cloudflare Workers.
